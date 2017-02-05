@@ -1,0 +1,10 @@
+{
+  "name": "code_timeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Riza Fahmi",
+  "license": "MIT",
+  "dependencies": {
+    "codemirror": "^5.23.0"
+  }
+}
